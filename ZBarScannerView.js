@@ -10,7 +10,7 @@ import {
     ViewPropTypes
 } from 'react-native';
 
-const CameraManager = NativeModules.CameraManager || NativeModules.ZBarCameraModule;
+const CameraManager = NativeModules.CameraManager || NativeModules.CameraModule;
 const CAMERA_REF = 'camera';
 
 function convertNativeProps(props) {

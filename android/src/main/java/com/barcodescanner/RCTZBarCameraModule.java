@@ -44,7 +44,7 @@ import javax.annotation.Nullable;
 
 public class RCTZBarCameraModule extends ReactContextBaseJavaModule
     implements MediaRecorder.OnInfoListener, MediaRecorder.OnErrorListener, LifecycleEventListener {
-    private static final String TAG = "RCTZBarCameraModule";
+    private static final String TAG = "RCTCameraModule";
 
     public static final int RCT_CAMERA_ASPECT_FILL = 0;
     public static final int RCT_CAMERA_ASPECT_FIT = 1;
