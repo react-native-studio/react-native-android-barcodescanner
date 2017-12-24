@@ -3,7 +3,7 @@
 工程目录下运行 npm install --save react-native-android-barcodescanner 或者 yarn add react-native-android-barcodescanner(已经安装了yarn)
 
 ### 注意：
-version 0.1.0适用于大于等于rn0.44和小于0.47<br/>
+version 0.1.1适用于大于等于rn0.44和小于0.47<br/>
 version 0.1.5适用于rn0.47及以上
 加入```<uses-permission android:name="android.permission.CAMERA" />```权限
 ## 第二步
