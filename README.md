@@ -5,6 +5,7 @@
 ### 注意：
 version 0.1.0适用于大于等于rn0.44和小于0.47<br/>
 version 0.1.5适用于rn0.47及以上
+加入```<uses-permission android:name="android.permission.CAMERA" />```权限
 ## 第二步
 运行 react-native link react-native-android-barcodescanner
 ## 第三部使用
