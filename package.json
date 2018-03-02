@@ -1,6 +1,6 @@
 {
   "name": "react-native-android-barcodescanner",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "android扫码插件",
   "main": "ZBarQRScannerRectView.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/2534290808/react-native-android-barcodescanner.git"
+    "url": "git+https://github.com/react-native-studio/react-native-android-barcodescanner.git"
   },
   "keywords": [
     "scan",
@@ -18,7 +18,7 @@
   "author": "lmy2534290808",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/2534290808/react-native-android-barcodescanner/issues"
+    "url": "https://github.com/react-native-studio/react-native-android-barcodescanner/issues"
   },
-  "homepage": "https://github.com/2534290808/react-native-android-barcodescanner#readme"
+  "homepage": "https://github.com/react-native-stutio/react-native-android-barcodescanner#readme"
 }
