@@ -1,6 +1,6 @@
 {
   "name": "react-native-android-barcodescanner",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "description": "android扫码插件",
   "main": "ZBarQRScannerRectView.js",
   "scripts": {
